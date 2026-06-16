@@ -8,6 +8,98 @@
     <line x1="8" y1="2" x2="8" y2="14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
     <line x1="2" y1="8" x2="14" y2="8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
   </symbol>
+
+  <symbol id="alert-success" viewBox="0 0 24 24">
+    <g fill="none">
+      <path
+        stroke="currentColor"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M8.5 12.5L10.5 14.5L15.5 9.5"
+      />
+      <path
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        opacity="0.5"
+        d="M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7"
+      />
+    </g>
+  </symbol>
+  <symbol id="alert-info" viewBox="0 0 24 24">
+    <g fill="none">
+      <path
+        stroke="currentColor"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        d="M12 17V11"
+      />
+      <circle cx="1" cy="1" r="1" transform="matrix(1 0 0 -1 11 9)" fill="currentColor"/>
+      <path
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        opacity="0.5"
+        d="M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7"
+      />
+    </g>
+  </symbol>
+  <symbol id="alert-warning" viewBox="0 0 24 24">
+    <g fill="none">
+      <path
+        stroke="currentColor"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        d="M12 7V13"
+      />
+      <circle cx="12" cy="16" r="1" fill="currentColor"/>
+      <path
+        d="M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7"
+        stroke="currentColor"
+        stroke-width="2"
+        opacity="0.5"
+        stroke-linecap="round"
+      />
+    </g>
+  </symbol>
+  <symbol id="alert-question" viewBox="0 0 24 24">
+    <g fill="none">
+      <path
+        d="M9.5 9.5C9.5 8.12 10.62 7 12 7C13.38 7 14.5 8.12 14.5 9.5C14.5 10.5 13.9 11.1 13.1 11.7C12.3 12.3 11.5 12.9 11.5 14"
+        stroke="currentColor"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      />
+      <circle cx="12" cy="17" r="1" fill="currentColor"/>
+      <path
+        d="M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7"
+        stroke="currentColor"
+        stroke-width="2"
+        opacity="0.5"
+        stroke-linecap="round"
+      />
+    </g>
+  </symbol>
+  <symbol id="alert-error" viewBox="0 0 24 24">
+    <g fill="none">
+      <path
+        stroke="currentColor"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        d="M14.5 9.50002L9.5 14.5M9.49998 9.5L14.5 14.5"
+      />
+      <path
+        stroke="currentColor"
+        stroke-linecap="round"
+        stroke-width="2"
+        opacity="0.5"
+        d="M7 3.33782C8.47087 2.48697 10.1786 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 10.1786 2.48697 8.47087 3.33782 7"
+      />
+    </g>
+  </symbol>
+
   <symbol id="arrow-down-1" viewBox="0 0 24 24">
     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
   </symbol>
